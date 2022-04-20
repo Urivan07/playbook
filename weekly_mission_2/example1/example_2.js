@@ -14,5 +14,5 @@ const explorer = {
 console.log(explorer);
 
 console.log("Accediendo a las propiedades del objeto")
-console.log(explorer.namess)
-console.log(explorer['namesss'])
+console.log(explorer.name)
+console.log(explorer['name'])
